@@ -387,7 +387,7 @@
           "nature": "Brave",
           "moves": [
             [
-              "Hammer Armr"
+              "Hammer Arm"
             ],
             [
               "Leech Life"
@@ -15077,7 +15077,7 @@
         }
       ]
     },
-    "rotom": {
+    "rotomwash": {
       "flags": {},
       "sets": [
         {
@@ -15343,7 +15343,12 @@
             "spe": "",
             "atk": 0
           }
-        },
+        }
+      ]
+    },
+    "rotomheat": {
+      "flags":  { },
+      "sets": [
         {
           "species": "Rotom-Heat",
           "gender": "",
@@ -15609,7 +15614,7 @@
           }
         }
       ]
-    },
+    }
     "volcarona": {
       "flags": {},
       "sets": [
@@ -19644,7 +19649,12 @@
             "spe": "",
             "atk": ""
           }
-        },
+        }
+      ]
+    },
+    "raichualola": {
+      "flags": { },
+      "sets": [
         {
           "species": "Raichu-Alola",
           "gender": "",
@@ -19910,7 +19920,7 @@
           }
         }
       ]
-    },
+    }
     "hitmontop": {
       "flags": {},
       "sets": [
