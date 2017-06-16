@@ -11060,7 +11060,7 @@
             "spd": 0,
             "spe": 252
           },
-          "nature": "Naughty",
+          "nature": "Naive",
           "moves": [
             [
               "High Jump Kick"
@@ -11126,7 +11126,7 @@
             "spd": 0,
             "spe": 252
           },
-          "nature": "Naughty",
+          "nature": "Naive",
           "moves": [
             [
               "High Jump Kick"
@@ -14808,275 +14808,6 @@
         }
       ]
     },
-    "drifblim": {
-      "flags": {},
-      "sets": [
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Ghostium Z",
-          "ability": "Flare Boost",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Destiny Bond"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Ghostium Z",
-          "ability": "Flare Boost",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Destiny Bond"
-            ],
-            [
-              "Disable"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Iapapa Berry",
-          "ability": "Unburden",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Rain Dance"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Aguav Berry",
-          "ability": "Unburden",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Sunny Day"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Mago Berry",
-          "ability": "Unburden",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Disable"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Sitrus Berry",
-          "ability": "Unburden",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Haze"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Sitrus Berry",
-          "ability": "Unburden",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Will-O-Wisp"
-            ],
-            [
-              "Clear Smog"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Drifblim",
-          "gender": "",
-          "item": "Ghostium Z",
-          "ability": "Flare Boost",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 132,
-            "spa": 204,
-            "spd": 4,
-            "spe": 164
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Shadow Ball"
-            ],
-            [
-              "Tailwind"
-            ],
-            [
-              "Icy Wind"
-            ],
-            [
-              "Destiny Bond"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        }
-      ]
-    },
     "rotomwash": {
       "flags": {},
       "sets": [
@@ -15347,7 +15078,7 @@
       ]
     },
     "rotomheat": {
-      "flags":  { },
+      "flags": {},
       "sets": [
         {
           "species": "Rotom-Heat",
@@ -15614,7 +15345,7 @@
           }
         }
       ]
-    }
+    },
     "volcarona": {
       "flags": {},
       "sets": [
@@ -19653,7 +19384,7 @@
       ]
     },
     "raichualola": {
-      "flags": { },
+      "flags": {},
       "sets": [
         {
           "species": "Raichu-Alola",
@@ -19920,7 +19651,7 @@
           }
         }
       ]
-    }
+    },
     "hitmontop": {
       "flags": {},
       "sets": [
@@ -27187,6 +26918,817 @@
           "ivs": {
             "spe": 0,
             "atk": ""
+          }
+        }
+      ]
+    },
+    "jellicent": {
+      "flags": {},
+      "sets": [
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Cursed Body",
+          "evs": {
+            "hp": 236,
+            "atk": 0,
+            "def": 20,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Waterium Z",
+          "ability": "Water Absorb",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Water Spout"
+            ],
+            [
+              "Shadow Ball"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Water Absorb",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Water Absorb",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 164,
+            "spa": 0,
+            "spd": 92,
+            "spe": 0
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Shadow Ball"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Wiki Berry",
+          "ability": "Cursed Body",
+          "evs": {
+            "hp": 236,
+            "atk": 0,
+            "def": 20,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Aguav Berry",
+          "ability": "Cursed Body",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Iapapa Berry",
+          "ability": "Cursed Body",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 164,
+            "spa": 0,
+            "spd": 92,
+            "spe": 0
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Shadow Ball"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Jellicent",
+          "gender": "",
+          "item": "Waterium Z",
+          "ability": "Water Absorb",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Water Spout"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "manectric": {
+      "flags": {
+        "megaOnly": 1
+      },
+      "sets": [
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Overheat"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Volt Switch"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Overheat"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Flamethrower"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Discharge"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Volt Switch"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Snarl"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Volt Switch"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Snarl"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Discharge"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Overheat"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Manectric",
+          "gender": "",
+          "item": "Manectite",
+          "ability": "Lightning Rod",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Volt Switch"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Flamethrower"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "sceptile": {
+      "flags": {
+        "megaOnly": 1
+      },
+      "sets": [
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Ground"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Energy Ball"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Energy Ball"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Energy Ball",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Ground"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Substitute"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sceptile",
+          "gender": "",
+          "item": "Sceptilite",
+          "ability": "Overgrow",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Energy Ball"
+            ],
+            [
+              "Dragon Pulse"
+            ],
+            [
+              "Substitute"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
           }
         }
       ]
