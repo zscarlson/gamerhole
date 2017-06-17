@@ -198,6 +198,7 @@ exports.customavatars = {
 	'bonehaver': 'cheatypxl.png',
 	'puffzz': 'transpuf.png',
 	'zubat': 'zubat.png',
+	'babbytr0n': 'babbychu.png',
 	'embc29': 'edu.png'
 
 
