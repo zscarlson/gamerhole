@@ -286,7 +286,7 @@ exports.Formats = [
 		requirePlus: true,
 	},
 	{
-	  name: "Alolan VGC 2016",
+	  name: "[Gen 7] Alolan VGC 2016",
 	  desc: ["Imagine if you took VGC 2016 and put it into gen 7. That's this. Solgaleo, Lunala, Z-Moves galore."],
 	  mod: 'gen7',
 	  gameType: 'doubles',
@@ -313,7 +313,7 @@ exports.Formats = [
 	  },
 	},
 	{
-	  name: "Mythical VGC",
+	  name: "[Gen 7] Mythical VGC",
 	  desc: ["Have you ever thought, \"Wow, this Mythical Pok&eacute;mon fits my team perfectly, but it's illegal in VGC!\" Well no more!",
 	  "This format combines VGC 2016 with Gen 7 Pok&eacute;mon and mechanics while allowing one mythical Pok&eacute;mon per team instead of one of your restricted Pok&eacute;mon",
 	  ],
@@ -347,7 +347,7 @@ exports.Formats = [
 	},
 
 	{
-	  name: "One Mythical VGC",
+	  name: "[Gen 7] One Mythical VGC",
 	  desc: ["National Dex VGC with one Mythical allowed on each team (NO RESTRICTEDS)."],
 	  mod: 'gen7',
 	  gameType: 'doubles',
