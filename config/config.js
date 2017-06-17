@@ -193,7 +193,7 @@ exports.autolockdown = true;
 // displayed in the client.
 exports.customavatars = {
 	//'userid': 'customavatar.png'
-	'jackofspadesman': 'jackofspadesman.png',
+	'jackofspadesman': 'bisharp of spades.png',
 	'profshroomish': 'cutiefly.png',
 	'EmbC29': 'edu.png',
 
