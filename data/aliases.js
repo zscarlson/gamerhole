@@ -17,6 +17,7 @@ exports.BattleAliases = {
 	"bsdoubles": "[Gen 7] Battle Spot Doubles",
 	"bstriples": "Battle Spot Triples",
 	"bssf": "[Gen 7] BSS Factory",
+	"bsdf": "[Gen 7] BSD Factory",
 	"balancedhackmons": "[Gen 7] Balanced Hackmons",
 	"bh": "[Gen 7] Balanced Hackmons",
 	"1v1": "[Gen 7] 1v1",
@@ -32,6 +33,8 @@ exports.BattleAliases = {
 	"theorymon": "OU Theorymon",
 	"challengecup1v1": "[Gen 7] Challenge Cup 1v1",
 	"cc1v1": "[Gen 7] Challenge Cup 1v1",
+	"cc2v2": "[Gen 7] Challenge Cup 2v2",
+	"challengecup2v2": "[Gen 7] Challenge Cup 2v2",
 	"hackmonscup": "[Gen 7] Hackmons Cup",
 	"hc": "[Gen 7] Hackmons Cup",
 	"monotyperandombattle": "[Gen 7] Monotype Random Battle",
@@ -40,6 +43,10 @@ exports.BattleAliases = {
 	"gen6inverse": "Inverse Battle",
 	"godlygift": "[Gen 7] Godly Gift",
 	"dancerability": "[Gen 7] Dancerability",
+	"mythicalvgc": "[Gen 7] Mythical VGC",
+	"alolanvgc2016": "[Gen 7] Alolan VGC 2016",
+	"alolan2016": "[Gen 7] Alolan VGC 2016",
+	"alola2016": "[Gen 7] Alolan VGC 2016",
 
 	// mega evos
 	"maero": "Aerodactyl-Mega",

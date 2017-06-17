@@ -371,7 +371,7 @@ exports.Formats = [
 	{
 	  name: "[Gen 7] Mythical VGC",
 	  desc: ["Have you ever thought, \"Wow, this Mythical Pok&eacute;mon fits my team perfectly, but it's illegal in VGC!\" Well no more!",
-		"This format combines a Gen 7 National Dex format and allows one Mythical Pok%eacute;mon on each team!"
+		"This format combines a Gen 7 National Dex format and allows one Mythical Pok%eacute;mon on each team! ARCEUS IS BANNED."
 	],
 	  mod: 'gen7',
 	  gameType: 'doubles',
@@ -382,13 +382,13 @@ exports.Formats = [
 	  },
 	  ruleset: ['Pokemon', 'Species Clause', 'Nickname Clause', 'Item Clause', 'Team Preview', 'Cancel Mod'],
 	  banlist: [
-	    'Illegal', 'Unreleased', 'Mewtwo', 'Lugia', 'Ho-Oh', 'Kyogre', 'Groudon', 'Rayquaza', 'Dialga', 'Palkia', 'Giratina',
+	    'Illegal', 'Unreleased', 'Mewtwo', 'Lugia', 'Ho-Oh', 'Kyogre', 'Groudon', 'Rayquaza', 'Dialga', 'Palkia', 'Giratina', 'Arceus',
 	    'Reshiram', 'Zekrom', 'Kyurem', 'Xerneas', 'Yveltal', 'Zygarde', 'Cosmog', 'Cosmoem', 'Solgaleo', 'Lunala', 'Necrozma',
 	  ],
 	  requirePentagon: true,
 	  onValidateTeam: function (team) {
 	  const mythicals = {'Mew':1, 'Celebi':1, 'Jirachi':1, 'Deoxys':1, 'Deoxys-Attack':1, 'Deoxys-Defense':1, 'Deoxys-Speed':1, 'Phione':1, 'Manaphy':1, 'Darkrai':1,
-	  'Shaymin':1, 'Shaymin-Sky':1, 'Arceus':1, 'Victini':1, 'Keldeo':1, 'Meloetta':1, 'Genesect':1, 'Diancie':1, 'Hoopa':1, 'Hoopa-Unbound':1, 'Volcanion':1, 'Magearna':1, 'Marshadow':1};
+	  'Shaymin':1, 'Shaymin-Sky':1, 'Victini':1, 'Keldeo':1, 'Meloetta':1, 'Genesect':1, 'Diancie':1, 'Hoopa':1, 'Hoopa-Unbound':1, 'Volcanion':1, 'Magearna':1, 'Marshadow':1};
 	    let n = 0;
 	    for (let i = 0; i < team.length; i++) {
 	      let template = this.getTemplate(team[i].species).baseSpecies;
