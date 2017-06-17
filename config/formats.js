@@ -339,9 +339,9 @@ exports.Formats = [
 	    for (let i = 0; i < team.length; i++) {
 	      let template = this.getTemplate(team[i].species).baseSpecies;
 	      if (template in legends) n++;
-	      if (template in mythicals) m++;
+	      if (template in mythicals) {n++; m++;}
 	      if (n > 2) return ["You can only use up to two legendary and mythical Pok\u00E9mon total."];
-	      if (m > 1) return ["You can only use one legendary and mythical Pok\u00E9mon."];
+	      if (m > 1) return ["You can only use one mythical Pok\u00E9mon."];
 	    }
 	  },
 	},
