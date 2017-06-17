@@ -195,6 +195,7 @@ exports.customavatars = {
 	//'userid': 'customavatar.png'
 	'jackofspadesman': 'bisharp of spades.png',
 	'profshroomish': 'cutiefly.png',
+	'bonehaver': 'cheatypxl.png',
 	'embc29': 'edu.png'
 
 
