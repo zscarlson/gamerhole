@@ -334,7 +334,7 @@ exports.Formats = [
 	    }
 	  },
 	},
-	{
+	/*{ //OLD MYTHICAL VGC
 	  name: "[Gen 7] Mythical VGC",
 	  desc: ["Have you ever thought, \"Wow, this Mythical Pok&eacute;mon fits my team perfectly, but it's illegal in VGC!\" Well no more!",
 	  "This format combines VGC 2016 with Gen 7 Pok&eacute;mon and mechanics while allowing one mythical Pok&eacute;mon per team instead of one of your restricted Pok&eacute;mon",
@@ -366,11 +366,13 @@ exports.Formats = [
 	      if (m > 1) return ["You can only use one mythical Pok\u00E9mon."];
 	    }
 	  },
-	},
+	},*/
 
 	{
-	  name: "[Gen 7] One Mythical VGC",
-	  desc: ["National Dex VGC with one Mythical allowed on each team (NO RESTRICTEDS)."],
+	  name: "[Gen 7] Mythical VGC",
+	  desc: ["Have you ever thought, \"Wow, this Mythical Pok&eacute;mon fits my team perfectly, but it's illegal in VGC!\" Well no more!",
+		"This format combines a Gen 7 National Dex format and allows one Mythical Pok%eacute;mon on each team!"
+	],
 	  mod: 'gen7',
 	  gameType: 'doubles',
 	  maxForcedLevel: 50,
