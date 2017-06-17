@@ -199,7 +199,8 @@ exports.customavatars = {
 	'puffzz': 'transpuf.png',
 	'zubat': 'zubat.png',
 	'babbytr0n': 'babbychu.png',
-	'embc29': 'edu.png'
+	'embc29': 'edu.png',
+	'unreality': 'horse.png'
 
 
 };
