@@ -3969,6 +3969,10 @@ has: {}, forceResult: forceResult, weaknesses: {}, resistances: {}};
     // Limit the number of Megas + Z-moves to 3
     if (teamData.megaCount + teamData.zCount >= 3 && speciesFlags.megaOnly) continue;
 
+		// Require at least one Mega and one Z-move
+		if(teamData.zCount < 1 && this.item != zMove /*&& this.item != megaStone*/) continue;
+		//if(teamData.megaCount < 1 && this.item != megaStone && this.item != zMove) continue;
+
     // Limit 2 of any type
     let types = template.types;
     let skip = false;
