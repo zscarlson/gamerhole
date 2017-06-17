@@ -60356,6 +60356,6 @@ exports.BattleLearnsets = {
 	    toxic: ["7M", "6M", "5M"],
 	    workup: ["7M", "7L29"],
 	    xscissor: ["7M"],
-	    zenheadbutt: ["6T", "5T"],`
+	    zenheadbutt: ["6T", "5T"],
 	}},
 };
