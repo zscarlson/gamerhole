@@ -4021,8 +4021,8 @@ has: {}, forceResult: forceResult, weaknesses: {}, resistances: {}};
       teamData.has[itemData.id] = 1;
     }
 		// Require at least one Mega and one Z-move
-		if(teamData.zCount < 1 && !(itemData.zMove) /*&& !(itemData.megaStone)*/) continue;
-		//if(teamData.megaCount < 1 && !(itemData.megaStone() && !(itemData.zMove)) continue;
+		if(teamData.zCount < 1 && !(itemData.zMove) && !(itemData.megaStone)) continue;
+		if(teamData.megaCount < 1 && !(itemData.megaStone()) && !(itemData.zMove)) continue;
 
     let abilityData = this.getAbility(set.ability);
     if (abilityData.id in weatherAbilitiesSet) {
