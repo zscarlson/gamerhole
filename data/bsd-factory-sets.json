@@ -2277,7 +2277,7 @@
             [
               "Ice Beam"
             ],
-            "Skill Swap",
+              "Skill Swap"
             [
               "Trick Room"
             ]
@@ -27739,7 +27739,7 @@
         {
           "species": "Latios",
           "gender": "",
-          "item": "Life Orb",
+          "item": "Dragonium Z",
           "ability": "Levitate",
           "evs": {
             "hp": 4,
@@ -27755,13 +27755,46 @@
               "Psychic"
             ],
             [
-              "Ice Beam"
+              "Draco Meteor"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
             ],
             [
               "Hidden Power Ground"
             ],
             [
-              "Tailwind"
+              "Protect"
             ]
           ],
           "ivs": {
@@ -27772,7 +27805,7 @@
         {
           "species": "Latios",
           "gender": "",
-          "item": "Choice Specs",
+          "item": "Dragonium Z",
           "ability": "Levitate",
           "evs": {
             "hp": 4,
@@ -27789,45 +27822,12 @@
             ],
             [
               "Draco Meteor"
-            ],
-            [
-              "Ice Beam"
             ],
             [
               "Hidden Power Fire"
-            ]
-          ],
-          "ivs": {
-            "spe": "",
-            "atk": 0
-          }
-        },
-        {
-          "species": "Latios",
-          "gender": "",
-          "item": "Focus Sash",
-          "ability": "Levitate",
-          "evs": {
-            "hp": 4,
-            "atk": 0,
-            "def": 0,
-            "spa": 252,
-            "spd": 0,
-            "spe": 252
-          },
-          "nature": "Timid",
-          "moves": [
-            [
-              "Psychic"
             ],
             [
-              "Draco Meteor"
-            ],
-            [
-              "Heal Pulse"
-            ],
-            [
-              "Tailwind"
+              "Protect"
             ]
           ],
           "ivs": {
@@ -27854,13 +27854,13 @@
               "Psychic"
             ],
             [
-              "Ice Beam"
+              "Draco Meteor"
             ],
             [
-              "Heal Pulse"
+              "Trick"
             ],
             [
-              "Thunderbolt"
+              "Memento"
             ]
           ],
           "ivs": {
@@ -28271,6 +28271,6 @@
         }
       ]
     }
-    
+
   }
 }
