@@ -196,7 +196,8 @@ exports.customavatars = {
 	'jackofspadesman': 'bisharp of spades.png',
 	'profshroomish': 'cutiefly.png',
 	'bonehaver': 'cheatypxl.png',
-	'Puff zZ': 'transpuf.png',
+	'puffzz': 'transpuf.png',
+	'zubat': 'zubat.png',
 	'embc29': 'edu.png'
 
 
