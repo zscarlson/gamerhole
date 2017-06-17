@@ -27732,6 +27732,545 @@
           }
         }
       ]
+    },
+    "latios": {
+      "flags": {},
+      "sets": [
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Hidden Power Ground"
+            ],
+            [
+              "Tailwind"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Choice Specs",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Hidden Power Fire"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Focus Sash",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Tailwind"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Choice Scarf",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Thunderbolt"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Heal Pulse"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Hidden Power Ground"
+            ],
+            [
+              "Tailwind"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Tailwind"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latios",
+          "gender": "",
+          "item": "Choice Scarf",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Grass Knot"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "raikou": {
+      "flags": {},
+      "sets": [
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Snarl"
+            ],
+            [
+              "Volt Switch"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Electrium Z",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Shadow Ball"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Choice Specs",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Volt Switch"
+            ],
+            [
+              "Discharge"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Volt Switch"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Electrium Z",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Substitute"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Electrium Z",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Snarl"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Electrium Z",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Discharge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Raikou",
+          "gender": "",
+          "item": "Shuca Berry",
+          "ability": "Pressure",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Snarl"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
     }
+    
   }
 }
