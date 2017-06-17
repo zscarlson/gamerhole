@@ -39,6 +39,37 @@ Ratings and how they work:
 'use strict';
 
 exports.BattleAbilities = {
+	"absolutezero": {
+		shortDesc: "This Pokemon's moves and their effects ignore the Abilities of other Pokemon. This Pokemon's Ice-type attacks have their power multiplied by 1.5. Ice-type moves against this Pokemon deal damage with a halved attacking stat. Pokemon making contact with this Pokemon have a 20% chance to be frozen.",
+		onStart: function (pokemon) {
+			this.add('-ability', pokemon, 'Absolute Zero');
+		},
+		onModifyMove: function (move) {
+			move.ignoreAbility = true;
+		},
+		onBasePowerPriority: 8,
+		onBasePower: function (basePower, attacker, defender, move) {
+			if (move.type === 'Ice') {
+				this.debug('Absolute Zero boost');
+				return this.chainModify(1.5);
+			}
+		},
+	    onAfterDamageOrder: 1,
+	    onAfterDamage: function (damage, target, source, move) {
+	      if (this.random(10) < 2) {
+	        source.trySetStatus('frz', target);
+	      }
+	    },
+		onModifyAtkPriority: 6,
+		onSourceModifyAtk: function (atk, attacker, defender, move) {
+			if (move.type === 'Ice') {
+				this.debug('Absolute Zero weaken');
+				return this.chainModify(0.5);
+			}
+		},
+		rating: 4,
+		num: -5,
+	},
 	"adaptability": {
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
 		shortDesc: "This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5.",
