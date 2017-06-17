@@ -6548,6 +6548,10 @@ exports.BattleFormatsData = {
 		isNonstandard: true,
 		tier: "CAP",
 	},
+	gadzilla: {
+		isNonstandard: true,
+		tier: "CAP",
+	},
 	syclar: {
 		isNonstandard: true,
 		tier: "CAP",
