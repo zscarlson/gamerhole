@@ -194,8 +194,8 @@ exports.autolockdown = true;
 exports.customavatars = {
 	//'userid': 'customavatar.png'
 	'jackofspadesman': 'jackofspadesman.png',
-	'profshroomish': 'cutiefly.png'
-	'EmbC29': 'edu.png'
+	'profshroomish': 'cutiefly.png',
+	'EmbC29': 'edu.png',
 
 
 };
