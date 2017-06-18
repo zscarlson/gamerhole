@@ -2122,17 +2122,17 @@
         {
           "species": "Tapu Fini",
           "gender": "",
-          "item": "Wiki Berry",
+          "item": "Choice Specs",
           "ability": "Misty Surge",
           "evs": {
             "hp": 252,
             "atk": 0,
-            "def": 100,
-            "spa": 84,
+            "def": 20,
+            "spa": 164,
             "spd": 44,
             "spe": 28
           },
-          "nature": "Calm",
+          "nature": "Modest",
           "moves": [
             [
               "Muddy Water"
@@ -2141,10 +2141,10 @@
               "Moonblast"
             ],
             [
-              "Heal Pulse"
+              "Brine"
             ],
             [
-              "Swagger"
+              "Dazzling Gleam"
             ]
           ],
           "ivs": {
