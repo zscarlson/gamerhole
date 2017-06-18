@@ -2042,7 +2042,7 @@
               "Moonblast"
             ],
             [
-              "Taunt"
+              "Nature's Madness"
             ],
             [
               "Protect"
@@ -2056,17 +2056,17 @@
         {
           "species": "Tapu Fini",
           "gender": "",
-          "item": "Choice Specs",
+          "item": "Tapunium Z",
           "ability": "Misty Surge",
           "evs": {
             "hp": 252,
             "atk": 0,
-            "def": 20,
-            "spa": 164,
+            "def": 100,
+            "spa": 84,
             "spd": 44,
             "spe": 28
           },
-          "nature": "Modest",
+          "nature": "Calm",
           "moves": [
             [
               "Muddy Water"
@@ -2075,10 +2075,10 @@
               "Moonblast"
             ],
             [
-              "Brine"
+              "Nature's Madness"
             ],
             [
-              "Dazzling Gleam"
+              "Protect"
             ]
           ],
           "ivs": {
