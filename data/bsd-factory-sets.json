@@ -27735,9 +27735,274 @@
         }
       ]
     },
-    "latios": {
-      "flags": {},
+    "latis": {
+      "flags": {
+      },
       "sets": [
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Mago Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Icy Wind"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Helping Hand"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 52,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Mago Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Icy Wind"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Iapapa Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Heal Pulse"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Aguav Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Heal Pulse"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Wiki Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Roost"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 52,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Roost"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Latias",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 44,
+            "spa": 12,
+            "spd": 4,
+            "spe": 196
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Psychic"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Roost"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
         {
           "species": "Latios",
           "gender": "",
@@ -28274,5 +28539,2709 @@
       ]
     }
 
+  ,
+    "swampert": {
+      "flags": {
+        "megaOnly": 1
+      },
+      "sets": [
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Expert Belt",
+          "ability": "Torrent",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 228,
+            "spd": 4,
+            "spe": 20
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Earth Power"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Wide Guard"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Torrent",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 228,
+            "spd": 4,
+            "spe": 20
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Earth Power"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Wide Guard"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Torrent",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 228,
+            "spd": 4,
+            "spe": 20
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Earth Power"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Wide Guard"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Expert Belt",
+          "ability": "Torrent",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 228,
+            "spd": 4,
+            "spe": 20
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Earth Power"
+            ],
+            [
+              "Wide Guard"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Torrent",
+          "evs": {
+            "hp": 204,
+            "atk": 0,
+            "def": 52,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Scald"
+            ],
+            [
+              "Ice Beam"
+            ],
+            [
+              "Earth Power"
+            ],
+            [
+              "Rock Slide"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Swampertite",
+          "ability": "Damp",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Waterfall"
+            ],
+            [
+              "Earthquake"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Swampertite",
+          "ability": "Damp",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Waterfall"
+            ],
+            [
+              "Earthquake"
+            ],
+            [
+              "Superpower"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Swampert",
+          "gender": "",
+          "item": "Swampertite",
+          "ability": "Damp",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Waterfall"
+            ],
+            [
+              "Earthquake"
+            ],
+            [
+              "Rain Dance"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        }
+      ]
+    },
+    "machamp": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "No Guard",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Dynamic Punch"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Poison Jab"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "No Guard",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Dynamic Punch"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Poison Jab"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Fightinium Z",
+          "ability": "No Guard",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Dynamic Punch"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Flame Orb",
+          "ability": "Guts",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Close Combat"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "No Guard",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Dynamic Punch"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Wide Guard"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Guts",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Close Combat"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Wide Guard"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Guts",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Close Combat"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Poison Jab"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Machamp",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Guts",
+          "evs": {
+            "hp": 252,
+            "atk": 148,
+            "def": 84,
+            "spa": 0,
+            "spd": 20,
+            "spe": 4
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Close Combat"
+            ],
+            [
+              "Knock Off"
+            ],
+            [
+              "Ice Punch"
+            ],
+            [
+              "Poison Jab"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        }
+      ]
+    },
+    "abomasnow": {
+      "flags": {
+        "megaOnly": 1
+      },
+      "sets": [
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Focus Sash",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Focus Sash",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Energy Ball"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Focus Sash",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Giga Drain"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Focus Sash",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Brave",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Abomasite",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 112,
+            "atk": 144,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Abomasite",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 112,
+            "atk": 144,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Energy Ball"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Abomasite",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 112,
+            "atk": 144,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Quiet",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Giga Drain"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Abomasnow",
+          "gender": "",
+          "item": "Abomasite",
+          "ability": "Snow Warning",
+          "evs": {
+            "hp": 112,
+            "atk": 252,
+            "def": 0,
+            "spa": 144,
+            "spd": 0,
+            "spe": 0
+          },
+          "nature": "Brave",
+          "moves": [
+            [
+              "Blizzard"
+            ],
+            [
+              "Ice Shard"
+            ],
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        }
+      ]
+    },
+    "virizion": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Grassium Z",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Fightinium Z",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Taunt"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Taunt"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Expert Belt",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Fightinium Z",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Rockium Z",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Virizion",
+          "gender": "",
+          "item": "Grassium Z",
+          "ability": "Justified",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Leaf Blade"
+            ],
+            [
+              "Close Combat"
+            ],
+            [
+              "Taunt"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        }
+      ]
+    },
+    "sableye": {
+      "flags": {
+        "megaOnly": 1
+      },
+      "sets": [
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Aguav Berry",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Careful",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Quash"
+            ],
+            [
+              "Fake Out"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sablenite",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Taunt"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Iapapa Berry",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Taunt"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Careful",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Fake Out"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Quash"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Taunt"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sablenite",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Careful",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Fake Out"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Sableye",
+          "gender": "",
+          "item": "Sablenite",
+          "ability": "Prankster",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "nature": "Calm",
+          "moves": [
+            [
+              "Foul Play"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Recover"
+            ],
+            [
+              "Snarl"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "trevenant": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Trick Room"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Horn Leech"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Leech Seed"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Trick Room"
+            ],
+            [
+              "Curse"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Figy Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Trick Room"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Aguav Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Relaxed",
+          "moves": [
+            [
+              "Horn Leech"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Leech Seed"
+            ],
+            [
+              "Trick Room"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Iapapa Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 124,
+            "spa": 0,
+            "spd": 132,
+            "spe": 0
+          },
+          "nature": "Brave",
+          "moves": [
+            [
+              "Wood Hammer"
+            ],
+            [
+              "Imprison"
+            ],
+            [
+              "Trick Room"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": 0,
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Figy Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Impish",
+          "moves": [
+            [
+              "Shadow Force"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Leech Seed"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Trevenant",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Harvest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 204,
+            "spe": 0
+          },
+          "nature": "Impish",
+          "moves": [
+            [
+              "Shadow Force"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Leech Seed"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        }
+      ]
+    },
+    "rotommow": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Sitrus Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 84,
+            "spa": 76,
+            "spd": 92,
+            "spe": 4
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Grassium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 196,
+            "atk": 0,
+            "def": 0,
+            "spa": 164,
+            "spd": 0,
+            "spe": 148
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Wiki Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 84,
+            "spa": 76,
+            "spd": 92,
+            "spe": 4
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 196,
+            "atk": 0,
+            "def": 0,
+            "spa": 164,
+            "spd": 0,
+            "spe": 148
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Choice Specs",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 196,
+            "atk": 0,
+            "def": 0,
+            "spa": 164,
+            "spd": 0,
+            "spe": 148
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Volt Switch"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Choice Scarf",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Trick"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Grassium Z",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 196,
+            "atk": 0,
+            "def": 0,
+            "spa": 164,
+            "spd": 0,
+            "spe": 148
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Rotom-Mow",
+          "gender": "",
+          "item": "Mago Berry",
+          "ability": "Levitate",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 84,
+            "spa": 76,
+            "spd": 92,
+            "spe": 4
+          },
+          "nature": "Bold",
+          "moves": [
+            [
+              "Thunderbolt"
+            ],
+            [
+              "Leaf Storm"
+            ],
+            [
+              "Will-O-Wisp"
+            ],
+            [
+              "Electroweb"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "guzzlord": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Dragonium Z",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Flamethrower"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Flamethrower"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Fire Blast"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Iapapa Berry",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Wide Guard"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Fire Blast"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Assault Vest",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Snarl"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Guzzlord",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Beast Boost",
+          "evs": {
+            "hp": 28,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 228,
+            "spe": 0
+          },
+          "nature": "Modest",
+          "moves": [
+            [
+              "Draco Meteor"
+            ],
+            [
+              "Dark Pulse"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "landorus": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Naive",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Naive",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Life Orb",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Groundium Z",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Naive",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Groundium Z",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Hidden Power Ice"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Groundium Z",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Naive",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Stone Edge"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Landorus",
+          "gender": "",
+          "item": "Groundium Z",
+          "ability": "Sand Force",
+          "evs": {
+            "hp": 0,
+            "atk": 4,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Timid",
+          "moves": [
+            [
+              "Earth Power"
+            ],
+            [
+              "Sludge Bomb"
+            ],
+            [
+              "Hidden Power Fire"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": 0
+          }
+        }
+      ]
+    },
+    "braviary": {
+      "flags": {
+      },
+      "sets": [
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Flyinium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Return"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Flyinium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Return"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Fightinium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Return"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Normalium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Giga Impact"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Choice Scarf",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Return"
+            ],
+            [
+              "Superpower"
+            ],
+            [
+              "Rock Slide"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Choice Scarf",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "nature": "Jolly",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "U-turn"
+            ],
+            [
+              "Superpower"
+            ],
+            [
+              "Rock Slide"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Flyinium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Rock Slide"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Protect"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        },
+        {
+          "species": "Braviary",
+          "gender": "",
+          "item": "Flyinium Z",
+          "ability": "Defiant",
+          "evs": {
+            "hp": 116,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 4,
+            "spe": 132
+          },
+          "nature": "Adamant",
+          "moves": [
+            [
+              "Brave Bird"
+            ],
+            [
+              "Return"
+            ],
+            [
+              "Tailwind"
+            ],
+            [
+              "Whirlwind"
+            ]
+          ],
+          "ivs": {
+            "spe": "",
+            "atk": ""
+          }
+        }
+      ]
+    }
   }
 }
