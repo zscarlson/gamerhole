@@ -27735,7 +27735,7 @@
         }
       ]
     },
-    "latis": {
+    "latias": {
       "flags": {
       },
       "sets": [
@@ -28002,7 +28002,13 @@
             "spe": "",
             "atk": 0
           }
+        }
+        ]
         },
+  "latios": {
+      "flags": {
+      },
+      "sets": [
         {
           "species": "Latios",
           "gender": "",

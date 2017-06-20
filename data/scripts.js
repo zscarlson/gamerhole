@@ -3867,6 +3867,8 @@ weaknesspolicy:1, wikiberry:1,
     let itemData = this.getItem(curSet.item);
     if (teamData.megaCount > 1 && itemData.megaStone) continue; // reject 3+ mega stones
     if (teamData.zCount > 1 && itemData.zMove) continue; // reject 3+ Z stones
+    if ((teamData.species === latios && this.species === latias) || 
+    	(teamData.species === latias && this.species === latios)) continue; //reject both latios and latias
     if (itemsMax[itemData.id] && teamData.has[itemData.id] >= itemsMax[itemData.id])
 
 continue;
