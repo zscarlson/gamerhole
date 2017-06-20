@@ -3820,35 +3820,16 @@ randomBSDFactorySet: function (template, slot, teamData, tier) {
   // artificially replicate Item Clause
   let itemsMax = {
     adrenalineorb:1, aguavberry:1, airballoon:1, alakazite:1, aloraichiumz:1, assaultvest:1, beedrillite:1, blacksludge:1,
-
-blastoisinite:1, blazikenite:1,
-    buginiumz:1, charcoal:1, charizarditex:1, charizarditey:1, chestoberry:1, choiceband:1,
-
-choicescarf:1, choicespecs:1, chopleberry:1, cobaberry:1, darkiniumz:1,
-    dragoniumz:1, eeviumz:1, ejectbutton:1, electricmemory:1, electricseed:1, electriumz:1,
-
-eviolite:1, expertbelt:1, fairiumz:1,
-    fightingmemory:1, fightiniumz:1, figyberry:1, firiumz:1, fistplate:1, flameorb:1,
-
-flyiniumz:1, focussash:1, gengarite:1,
-    ghostiumz:1, glalitite:1, grassiumz:1, groundiumz:1, groundmemory:1, gyaradosite:1,
-
-heatrock:1, heracronite:1, iapapaberry:1, inciniumz:1,
-    iciumz:1, kangaskhanite:1, keeberry:1, kingsrock:1, leftovers:1, lifeorb:1, lightball:1,
-
-lightclay:1, lucarionite:1, lumberry:1, marangaberry:1,
-    magoberry:1, mawilite:1, meadowplate:1, medichamite:1, mentalherb:1, metagrossite:1, miracleseed:1, mysticwater:1, normaliumz:1,
-
-occaberry:1, payapaberry:1, pidgeotite:1, pinsirite:1, pixieplate:1,
-    poisoniumz:1, primariumz:1, psychiumz:1, redcard:1, rockiumz:1, rockyhelmet:1,
-
-safetygoggles:1, salacberry:1, salamencite:1,
-    scizorite:1, scopelens:1, sharpedonite:1, shucaberry:1, sitrusberry:1, slowbronite:1,
-
-smoothrock:1, steeliumz:1, steelixite:1,
-    steelmemory:1, tapuniumz:1, thickclub:1, toxicorb:1, venusaurite:1, wacanberry:1, wateriumz:1,
-
-weaknesspolicy:1, wikiberry:1,
+	blastoisinite:1, blazikenite:1, buginiumz:1, charcoal:1, charizarditex:1, charizarditey:1, chestoberry:1, choiceband:1,
+	choicescarf:1, choicespecs:1, chopleberry:1, cobaberry:1, darkiniumz:1, dragoniumz:1, eeviumz:1, ejectbutton:1, electricmemory:1, electricseed:1, electriumz:1,
+	eviolite:1, expertbelt:1, fairiumz:1, fightingmemory:1, fightiniumz:1, figyberry:1, firiumz:1, fistplate:1, flameorb:1,
+	flyiniumz:1, focussash:1, gengarite:1, ghostiumz:1, glalitite:1, grassiumz:1, groundiumz:1, groundmemory:1, gyaradosite:1,
+	heatrock:1, heracronite:1, iapapaberry:1, inciniumz:1, iciumz:1, kangaskhanite:1, keeberry:1, kingsrock:1, leftovers:1, lifeorb:1, lightball:1,
+	lightclay:1, lucarionite:1, lumberry:1, marangaberry:1, magoberry:1, mawilite:1, meadowplate:1, medichamite:1, mentalherb:1, metagrossite:1, miracleseed:1, mysticwater:1, normaliumz:1,
+	occaberry:1, payapaberry:1, pidgeotite:1, pinsirite:1, pixieplate:1, poisoniumz:1, primariumz:1, psychiumz:1, redcard:1, rockiumz:1, rockyhelmet:1,
+	safetygoggles:1, salacberry:1, salamencite:1, scizorite:1, scopelens:1, sharpedonite:1, shucaberry:1, sitrusberry:1, slowbronite:1,
+	smoothrock:1, steeliumz:1, steelixite:1, steelmemory:1, tapuniumz:1, thickclub:1, toxicorb:1, venusaurite:1, wacanberry:1, wateriumz:1,
+	weaknesspolicy:1, wikiberry:1,
   };
 
   let movesMax = {'trickroom':2, 'fakeout':2, 'tailwind':1, 'protect':5, };
@@ -3874,10 +3855,10 @@ weaknesspolicy:1, wikiberry:1,
 continue;
 
     let abilityData = this.getAbility(curSet.ability);
-    if (weatherAbilitiesRequire[abilityData.id] && teamData.weather !==
-
-weatherAbilitiesRequire[abilityData.id]) continue;
-    if (teamData.weather && weatherAbilitiesSet[abilityData.id]) continue; // reject 2+ weather setters
+    let megaTemplate = this.getTemplate(megaSpecies);
+    if(this.canMegaEvo) { let megaAbility = this.getMegaAbility(); }
+    if (weatherAbilitiesRequire[abilityData.id] && teamData.weather !== weatherAbilitiesRequire[abilityData.id]) continue;
+    if (teamData.weather && (weatherAbilitiesSet[abilityData.id] || weatherAbilitiesSet[megaAbility.id]) continue; // reject 2+ weather setters
 
     let reject = false;
     let hasRequiredMove = false;
