@@ -1324,19 +1324,6 @@ exports.Formats = [
 	  requirePlus: true,
 	},
 	{
-		name: "[Gen 7] tiny tourney",
-
-		mod: 'gen7',
-		gameType: 'doubles',
-		forcedLevel: 50,
-		teamLength: {
-			validate: [4, 6],
-			battle: 4,
-		},
-		ruleset: ['Pokemon', 'Team Preview', 'Standard GBU', 'Tiny Clause'],
-		banlist: ['Mega'],
-	},
-	{
 		name: "[Gen 7] BIG BOY BATTLE",
 
 		mod: 'gen7',
