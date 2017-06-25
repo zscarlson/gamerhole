@@ -4,7 +4,6 @@ exports.BattleItems = {
 	"abomasite": {
 		id: "abomasite",
 		name: "Abomasite",
-		isUnreleased: true,
 		spritenum: 575,
 		megaStone: "Abomasnow-Mega",
 		megaEvolves: "Abomasnow",
@@ -342,7 +341,6 @@ exports.BattleItems = {
 	"banettite": {
 		id: "banettite",
 		name: "Banettite",
-		isUnreleased: true,
 		spritenum: 582,
 		megaStone: "Banette-Mega",
 		megaEvolves: "Banette",
@@ -650,7 +648,6 @@ exports.BattleItems = {
 	"cameruptite": {
 		id: "cameruptite",
 		name: "Cameruptite",
-		isUnreleased: true,
 		spritenum: 625,
 		megaStone: "Camerupt-Mega",
 		megaEvolves: "Camerupt",
@@ -3138,7 +3135,6 @@ exports.BattleItems = {
 	"manectite": {
 		id: "manectite",
 		name: "Manectite",
-		isUnreleased: true,
 		spritenum: 596,
 		megaStone: "Manectric-Mega",
 		megaEvolves: "Manectric",
@@ -5452,7 +5448,6 @@ exports.BattleItems = {
 	"tyranitarite": {
 		id: "tyranitarite",
 		name: "Tyranitarite",
-		isUnreleased: true,
 		spritenum: 607,
 		megaStone: "Tyranitar-Mega",
 		megaEvolves: "Tyranitar",
@@ -5637,6 +5632,7 @@ exports.BattleItems = {
 				}
 				if (activate) {
 					pokemon.setBoost(boosts);
+					this.add('-clearnegativeboost', pokemon, '[silent]');
 				}
 			},
 		},

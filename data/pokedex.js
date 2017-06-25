@@ -13252,18 +13252,6 @@ exports.BattlePokedex = {
 		color: "Brown",
 		eggGroups: ["Human-Like", "Ground"],
 	},
-	gadzilla: {
-	  num: -95,
-	  species: "GADZILLA",
-	  types: ["Dragon", "Fighting"],
-	  gender: "N",
-	  baseStats: {hp: 125, atk: 170, def: 125, spa: 120, spd: 105, spe: 75},
-	  abilities: {0: "Absolute Zero"},
-	  heightm: 3.5,
-	  weightkg: 340,
-	  color: "Blue",
-	  eggGroups: ["Undiscovered"],
-	},
 	syclar: {
 		num: -101,
 		species: "Syclar",
