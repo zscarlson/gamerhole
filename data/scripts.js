@@ -3860,7 +3860,7 @@ continue;
     let megaTemplate = this.getTemplate(megaSpecies);
     if(this.canMegaEvo) { let megaAbility = this.getMegaAbility(); }
     if (weatherAbilitiesRequire[abilityData.id] && teamData.weather !== weatherAbilitiesRequire[abilityData.id]) continue;
-    if (teamData.weather && (weatherAbilitiesSet[abilityData.id] || weatherAbilitiesSet[megaAbility.id]) continue; // reject 2+ weather setters
+    if (teamData.weather && (weatherAbilitiesSet[abilityData.id] || weatherAbilitiesSet[megaAbility.id])) continue; // reject 2+ weather setters
 
     let reject = false;
     let hasRequiredMove = false;
