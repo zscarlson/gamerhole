@@ -691,7 +691,7 @@ exports.BattleFormats = {
 	      if (i === 0) {
 	        monocolor = template.color;
 	      }
-	      if(!(monocolor === template.color) {
+	      if(!(monocolor === template.color)) {
 	      	return ["Your team must share a color."];
 	      }
 	    }
