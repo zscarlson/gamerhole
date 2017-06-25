@@ -588,6 +588,13 @@ exports.Formats = [
 		ruleset: ['Pokemon', 'Same Type Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
 	},
 	{
+	  name: "[Gen 7] Monocolor Random Battle",
+
+	  mod: 'gen7',
+	  team: 'random',
+	  ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
+	},
+	{
 		name: "[Gen 7] Hackmons Cup",
 		desc: ["Randomized teams of level-balanced Pok&eacute;mon with absolutely any ability, moves, and item."],
 

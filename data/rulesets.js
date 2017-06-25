@@ -673,6 +673,31 @@ exports.BattleFormats = {
 			}
 		},
 	},
+	samecolorclause: {
+	  effectcolor: 'ValidatorRule',
+	  name: 'Same Color Clause',
+	  onStart: function () {
+	    this.add('rule', 'Same Color Clause: Pokémon in a team must share a color');
+	  },
+	  onValidateTeam: function (team) {
+	    let colorTable;
+	    for (let i = 0; i < team.length; i++) {
+	      let template = this.getTemplate(team[i].species);
+	      if (!template.color) return ["Your team must share a color. View colors here: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color"];
+	      if (i === 0) {
+	        colorTable = template.color;
+	      } else {
+	        colorTable = colorTable.filter(color => template.color.indexOf(color) >= 0);
+	      }
+	      let item = this.getItem(team[i].item);
+	      if (item.megaStone && template.species === item.megaEvolves) {
+	        template = this.getTemplate(item.megaStone);
+	        colorTable = colorTable.filter(color => template.color.indexOf(color) >= 0);
+	      }
+	      if (!colorTable.length) return ["Your team must share a color. View colors here: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color"];
+	    }
+	  },
+	},
 	megarayquazaclause: {
 		effectType: 'Rule',
 		name: 'Mega Rayquaza Clause',
