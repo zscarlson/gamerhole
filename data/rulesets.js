@@ -680,21 +680,20 @@ exports.BattleFormats = {
 	    this.add('rule', 'Same Color Clause: Pokémon in a team must share a color');
 	  },
 	  onValidateTeam: function (team) {
-	    let colorTable;
+	    let monocolor;
 	    for (let i = 0; i < team.length; i++) {
 	      let template = this.getTemplate(team[i].species);
-	      if (!template.color) return ["Your team must share a color."];
-	      if (i === 0) {
-	        colorTable = template.color;
-	      } else {
-	        colorTable = colorTable.filter(color => template.color.indexOf(color) >= 0);
-	      }
 	      let item = this.getItem(team[i].item);
 	      if (item.megaStone && template.species === item.megaEvolves) {
-	        template = this.getTemplate(item.megaStone);
-	        colorTable = colorTable.filter(color => template.color.indexOf(color) >= 0);
+	        template = this.getTemplate(team[i].baseSpecies);
+	    }
+	      if (!template.color) return ["Your team must share a color."];
+	      if (i === 0) {
+	        monocolor = template.color;
 	      }
-	      if (!colorTable.length) return ["Your team must share a color."];
+	      if(!(monocolor === template.color) {
+	      	return ["Your team must share a color."];
+	      }
 	    }
 	  },
 	},
