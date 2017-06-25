@@ -720,7 +720,6 @@ exports.Formats = [
 		name: "[Gen 7] Monocolor",
 
 		mod: 'gen7',
-		team: 'random',
 		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
 		banlist: [
 			'Aegislash', 'Arceus', 'Blaziken', 'Darkrai', 'Deoxys-Base', 'Deoxys-Attack', 'Dialga', 'Genesect', 'Giratina', 'Groudon', 'Ho-Oh', 'Hoopa-Unbound', 'Kartana', 'Kyogre',
