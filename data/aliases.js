@@ -50,7 +50,7 @@ exports.BattleAliases = {
 	"bsdf": "[Gen 7] BSD Factory",
 	"cc2v2": "[Gen 7] Challenge Cup 2v2",
 	"challengecup2v2": "[Gen 7] Challenge Cup 2v2",
-	"monocolor": "[Gen 7] Monotype",
+	"monocolor": "[Gen 7] Monocolor",
 	"monocolorrandombattle": "[Gen 7] Monocolor Random Battle",
 	"monocolorrandom": "[Gen 7] Monocolor Random Battle",
 
