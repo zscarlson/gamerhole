@@ -2380,9 +2380,13 @@ exports.BattleScripts = {
 
 		// For Monotype
 		let isMonotype = this.format === 'gen7monotyperandombattle';
-		let isMonocolor = this.format === 'gen7monocolorandombattle'; //Gamer Hole Monocolor
 		let typePool = Object.keys(this.data.TypeChart);
 		let type = typePool[this.random(typePool.length)];
+
+		//Gamer Hole Monocolor
+		let isMonocolor = this.format === 'gen7monocolorandombattle';
+		let colorPool = ['Red', 'Blue', 'Yellow', 'Green', 'Black', 'Brown', 'Purple', 'Gray', 'White', 'Pink'];
+		let color = colorPool[this.random(colorPool.length)];
 
 		let pokemonPool = [];
 		for (let id in this.data.FormatsData) {
@@ -2395,9 +2399,9 @@ exports.BattleScripts = {
 
 			//Gamer Hole monocolor
 			if (isMonocolor) {
-				let colors = template.color;
-				if (template.battleOnly) colors = this.getTemplate(template.baseSpecies).color;
-				if (colors.indexOf(color) < 0) continue;
+				let color = template.color;
+				if (template.battleOnly) color = this.getTemplate(template.baseSpecies).color;
+				if (color.indexOf(color) < 0) continue;
 			}
 
 			if (template.gen <= this.gen && !excludedTiers[template.tier] && !template.isMega && !template.isPrimal && !template.isNonstandard && template.randomBattleMoves) {
