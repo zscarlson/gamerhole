@@ -718,7 +718,7 @@ exports.Formats = [
 	},
 	{
 		name: "[Gen 7] Monocolor",
-
+		desc: "<a href=\"https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color\">Pokemon Organized by Color</a>",
 		mod: 'gen7',
 		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
 		banlist: [
