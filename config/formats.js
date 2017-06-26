@@ -1468,12 +1468,19 @@ exports.Formats = [
 		name: "[Gen 7] Monocolor",
 		desc: "<a href=\"https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color\">Pokemon Organized by Color</a>",
 		mod: 'gen7',
-		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
+		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod', 'Team Preview'],
 		banlist: [
 			'Aegislash', 'Arceus', 'Blaziken', 'Darkrai', 'Deoxys-Base', 'Deoxys-Attack', 'Dialga', 'Genesect', 'Giratina', 'Groudon', 'Ho-Oh', 'Hoopa-Unbound', 'Kartana', 'Kyogre',
 			'Kyurem-White', 'Lugia', 'Lunala', 'Mewtwo', 'Palkia', 'Pheromosa', 'Rayquaza', 'Reshiram', 'Shaymin-Sky', 'Solgaleo', 'Tapu Lele', 'Xerneas', 'Yveltal', 'Zekrom', 'Zygarde',
 			'Battle Bond', 'Damp Rock', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Mawilite', 'Medichamite', 'Metagrossite', 'Salamencite', 'Smooth Rock', 'Terrain Extender', 'Baton Pass',
 		],
+	},
+		{
+		name: "[Gen 7] Monocolor Doubles",
+		desc: "<a href=\"https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_color\">Pokemon Organized by Color</a>",
+		mod: 'gen7',
+		gameType: 'doubles',
+		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod', 'Standard GBU', 'Team Preview'],
 	},
 	{
 		name: "[Gen 7] Monocolor Random Battle",
