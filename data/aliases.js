@@ -51,6 +51,7 @@ exports.BattleAliases = {
 	"cc2v2": "[Gen 7] Challenge Cup 2v2",
 	"challengecup2v2": "[Gen 7] Challenge Cup 2v2",
 	"monocolor": "[Gen 7] Monocolor",
+	"monocolordoubles": "[Gen 7] Monocolor Doubles",
 	"monocolorrandombattle": "[Gen 7] Monocolor Random Battle",
 	"monocolorrandom": "[Gen 7] Monocolor Random Battle",
 
