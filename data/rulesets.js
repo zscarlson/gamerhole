@@ -684,10 +684,11 @@ exports.BattleFormats = {
 	    for (let i = 0; i < team.length; i++) {
 	      let template = this.getTemplate(team[i].species);
 	      let item = this.getItem(team[i].item);
-	      if (item.megaStone && template.species === item.megaEvolves) {
+	      if (item.megaStone === template.species) {
 	        template = this.getTemplate(item.megaEvolves);
 	        console.log(item.megaEvolves);
 	        console.log(item.megaStone);
+	        console.log(template.species);
 	    }
 	    	console.log(template.species);
 	        console.log(template.color);
