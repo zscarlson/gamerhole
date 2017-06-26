@@ -686,7 +686,9 @@ exports.BattleFormats = {
 	      let item = this.getItem(team[i].item);
 	      if (item.megaStone && template.species === item.megaEvolves) {
 	        template = this.getTemplate(team[i].baseSpecies);
+	        console.log(team[i].baseSpecies);
 	    }
+	    console.log(template.color);
 	      if (!template.color) return ["Your team must share a color."];
 	      if (i === 0) {
 	        monocolor = template.color;
