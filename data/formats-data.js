@@ -490,6 +490,7 @@ exports.BattleFormatsData = {
 	vulpixalola: {
 		eventPokemon: [
 			{"generation": 7, "level": 10, "isHidden": false, "moves":["celebrate", "tailwhip", "babydolleyes", "iceshard"], "pokeball": "cherishball"},
+			{"generation": 7, "level": 10, "gender": "F", "nature": "Modest", "isHidden": false, "moves":["powdersnow"], "pokeball": "cherishball"},
 		],
 		tier: "LC",
 	},
@@ -3344,7 +3345,7 @@ exports.BattleFormatsData = {
 		tier: "NFE",
 	},
 	salamence: {
-		randomBattleMoves: ["outrage", "fireblast", "earthquake", "dracometeor", "dragondance", "dragonclaw"],
+		randomBattleMoves: ["outrage", "fireblast", "earthquake", "dracometeor", "dragondance", "dragonclaw", "fly"],
 		randomDoubleBattleMoves: ["protect", "fireblast", "earthquake", "dracometeor", "tailwind", "dragondance", "dragonclaw", "hydropump", "rockslide"],
 		eventPokemon: [
 			{"generation": 3, "level": 50, "moves":["protect", "dragonbreath", "scaryface", "fly"]},
@@ -3753,8 +3754,8 @@ exports.BattleFormatsData = {
 		tier: "LC",
 	},
 	wormadam: {
-		randomBattleMoves: ["gigadrain", "signalbeam", "protect", "toxic", "synthesis"],
-		randomDoubleBattleMoves: ["leafstorm", "gigadrain", "signalbeam", "hiddenpowerice", "hiddenpowerrock", "stringshot", "protect"],
+		randomBattleMoves: ["gigadrain", "bugbuzz", "protect", "toxic", "synthesis"],
+		randomDoubleBattleMoves: ["leafstorm", "gigadrain", "bugbuzz", "hiddenpowerice", "hiddenpowerrock", "stringshot", "protect"],
 		tier: "NU",
 	},
 	wormadamsandy: {
@@ -4814,7 +4815,7 @@ exports.BattleFormatsData = {
 		tier: "LC",
 	},
 	swanna: {
-		randomBattleMoves: ["airslash", "roost", "hurricane", "surf", "icebeam", "raindance", "defog", "scald"],
+		randomBattleMoves: ["airslash", "roost", "hurricane", "icebeam", "raindance", "defog", "scald"],
 		randomDoubleBattleMoves: ["airslash", "roost", "hurricane", "surf", "icebeam", "raindance", "tailwind", "scald", "protect"],
 		tier: "NU",
 	},
@@ -5234,7 +5235,7 @@ exports.BattleFormatsData = {
 		tier: "Uber",
 	},
 	landorustherian: {
-		randomBattleMoves: ["swordsdance", "rockpolish", "earthquake", "stoneedge", "uturn", "superpower", "stealthrock"],
+		randomBattleMoves: ["swordsdance", "rockpolish", "earthquake", "stoneedge", "uturn", "superpower", "stealthrock", "fly"],
 		randomDoubleBattleMoves: ["rockslide", "earthquake", "stoneedge", "uturn", "superpower", "knockoff", "protect"],
 		eventOnly: true,
 		tier: "OU",
@@ -6035,7 +6036,7 @@ exports.BattleFormatsData = {
 		eventPokemon: [
 			{"generation": 7, "level": 50, "gender": "F", "isHidden": true, "moves":["babydolleyes", "brutalswing", "superpower", "bind"], "pokeball": "cherishball"},
 		],
-		tier: "BL2",
+		tier: "RU",
 	},
 	bounsweet: {
 		tier: "LC",
@@ -6359,7 +6360,7 @@ exports.BattleFormatsData = {
 			{"generation": 7, "level": 65, "moves":["counter", "hammerarm", "lunge", "dynamicpunch"]},
 		],
 		eventOnly: true,
-		tier: "UU",
+		tier: "BL",
 	},
 	pheromosa: {
 		randomBattleMoves: ["highjumpkick", "uturn", "icebeam", "poisonjab", "bugbuzz"],
@@ -6435,7 +6436,7 @@ exports.BattleFormatsData = {
 			{"generation": 7, "level": 50, "moves":["spectralthief", "closecombat", "forcepalm", "shadowball"], "pokeball": "cherishball"},
 		],
 		eventOnly: true,
-		tier: "OU",
+		tier: "Uber",
 	},
 	missingno: {
 		randomBattleMoves: ["watergun", "skyattack", "doubleedge", "metronome"],
