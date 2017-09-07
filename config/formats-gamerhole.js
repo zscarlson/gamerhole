@@ -193,3 +193,4 @@ exports.Formats = [
 		team: 'random',
 		ruleset: ['Pokemon', 'Same Color Clause', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod'],
 	},
+];
